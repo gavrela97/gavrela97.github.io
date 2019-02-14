@@ -5,6 +5,8 @@
 ul {
     width: 190px;
     
+    list-style-type:upper-roman;
+    
     background-color: lightslategray
 }
 
