@@ -1,3 +1,9 @@
 ﻿html {
     background-color: beige;
 }
+
+ul {
+    width: 190px;
+    
+    background-color: lightslategray
+}
