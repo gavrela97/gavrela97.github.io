@@ -1,3 +1,7 @@
 ﻿html {
     background-color: lightgreen;
 }
+
+ul {
+    list-style-type:lower-alpha;
+}
